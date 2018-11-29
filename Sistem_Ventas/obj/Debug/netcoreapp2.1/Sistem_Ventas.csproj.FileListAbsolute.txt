@@ -1,0 +1,93 @@
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.csproj.CoreCompileInputs.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.AssemblyInfoInputs.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.AssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.deps.json
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.runtimeconfig.json
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.runtimeconfig.dev.json
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.dll
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.pdb
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.Views.dll
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.Views.pdb
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.csprojAssemblyReference.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorAssemblyInfo.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorAssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.TagHelpers.input.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.TagHelpers.output.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorCoreGenerate.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorTargetAssemblyInfo.cache
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorTargetAssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.Views.pdb
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.dll
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.pdb
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.csproj.CopyComplete
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Principal\Views\Principal\Index.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Views\Usuarios\Index.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Pages\Registrar\Registrar.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Pages\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Pages\_ViewStart.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\Sistem_Ventas\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Views\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.deps.json
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.runtimeconfig.json
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.runtimeconfig.dev.json
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.dll
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.pdb
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.Views.dll
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\bin\Debug\netcoreapp2.1\Sistem_Ventas.Views.pdb
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.csprojAssemblyReference.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.csproj.CoreCompileInputs.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorAssemblyInfo.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorAssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.AssemblyInfoInputs.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.AssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.TagHelpers.input.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.TagHelpers.output.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorCoreGenerate.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Principal\Views\Principal\Index.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Pages\Registrar\Registrar.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Pages\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Pages\_ViewStart.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Views\Usuarios\Index.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Views\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorTargetAssemblyInfo.cache
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.RazorTargetAssemblyInfo.cs
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.Views.pdb
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.dll
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.pdb
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Sistem_Ventas.csproj.CopyComplete
+H:\Desarrollo de aplicaciones\asp.net\sistema de ventas asp.net test\Sistem_Ventas\obj\Debug\netcoreapp2.1\Razor\Areas\Usuarios\Pages\ResetPass\ResetPass\ResetPass.g.cshtml.cs

@@ -1,0 +1,91 @@
+﻿.btn-floating {
+    background: url(../images/iconos/ic_reorder_whites.png) no-repeat;
+}
+.side-nav {
+    top: 0;
+    margin: 0;
+    height: calc(100% + 60px);
+    background-color: #fff;
+    overflow-y: auto;
+    will-change: transform;
+}
+/*
+.card {
+    margin-top: 70px;
+    max-width: 40%;
+    /*border: 1px solid #7d7d7d;
+    padding: 10px;
+}
+
+.error {
+    color: #f00;
+}
+
+.container {
+    width: 100%;
+}
+*/
+/*
+#indexMessage {
+    color: #f00;
+}*/
+/* Hide/rearrange for smaller screens*/
+/*
+ * ***************** Media Querys *********************
+ */
+/*
+@media(max-width: 1024px) {
+    .slide.side-nav {
+        display: none;
+    }
+}
+*/
+
+@media(min-width: 350px) {
+    .card {
+        max-width: 100%;
+    }
+}
+@media(min-width: 450px) {
+    .card {
+        max-width: 70%;
+    }
+}
+@media(min-width: 600px) {
+    .card {
+        max-width: 70%;
+    }
+}
+
+@media(min-width: 800px) {
+    .side-nav {
+        max-width: 15%;
+        display: block;
+    }
+    .container {
+        max-width: 60%;
+    }
+    .side-nav {
+        max-width: 20%;
+        display: block;
+
+    }
+    .container2 {
+        width: 95%;
+        margin: -400px 50px 0px 40px;
+    }
+}
+@media(max-width: 1024px) {
+    .side-nav {
+        display: none;
+    }
+}
+
+/*
+@media screen and (max-width: 767px) {
+    .carousel-caption {
+        display: none;
+    }
+}
+
+*/

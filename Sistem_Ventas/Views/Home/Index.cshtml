@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+@model LoginViewModels;
+
+<center>
+    <div class ="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-content">
+                        <center>
+                            <h4> Iniciar Sesión </h4>
+                        </center>
+                        <section>
+                            <form asp-controller="home" asp-action="Index" method="post">
+                                <div asp-validation-summary="All" class="text-danger"></div>
+                                <div class="input-field col s12">
+                                    <label asp-for="Input.Email"></label>
+                                    <input asp-for="Input.Email" class="form-control" />
+                                </div>
+                                <div class="input-field col s12">
+                                    <label asp-for="Input.Password"></label>
+                                    <input asp-for="Input.Password" class="form-control" />
+                                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                </div>
+                                <center>
+                                    <button type="submit" id="btnLogn" class="waves-effect waves-light btn">Iniciar Sesión</button>
+                                </center>
+                                
+                            </form>
+                        </section>
+                        <br />
+                        <label id="indexMessage" class="error">@Html.DisplayFor(m => m.ErrorMessage)</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</center>
+<!-- este código es para validar los campos del formulario pasando por nuestro LoginViewModel-->
+@section Scripts {
+    @await  Html.PartialAsync("_ValidationScriptsPartial")
+}

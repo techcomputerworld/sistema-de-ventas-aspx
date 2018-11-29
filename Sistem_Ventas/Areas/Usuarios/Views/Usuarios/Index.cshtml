@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<div class="container2">
+    <h4> Usuarios </h4>
+    <div class="row">
+        <div class="input-field col s0">
+            <!-- el area usuarios y usando asp-page para proporcionar el nombre de nuestra pagina razor
+            Así podemos ejecutar nuestra página razor -->
+            <a asp-area="Usuarios" asp-page="/Registrar/Registrar"
+               class="waves-effect waves-light btn">Registrar</a>
+        </div>
+        <div class="input-field col s0">
+            <!-- el area usuarios y usando asp-page para proporcionar el nombre de nuestra pagina razor
+            Así podemos ejecutar nuestra página razor -->
+            <a asp-area="Usuarios" asp-page="/ResetPass/ResetPass"
+               class="waves-effect waves-light btn">Reset Password</a>
+        </div>
+    </div>
+
+</div>

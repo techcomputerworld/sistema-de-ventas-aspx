@@ -1,0 +1,176 @@
+﻿<!--Inyección de servicio -->
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager 
+@inject UserManager<IdentityUser> UserManager
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sistem_Ventas</title>
+
+    <environment include="Development">
+        <!--
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    --> 
+        <link rel="stylesheet" href="~/materialize/css/materialize.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <!--
+    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+          asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+          asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    -->
+        
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+    <nav>
+        <div class="nav-wrapper cyan darken-2">
+            <a href="#" class="brand-logo center">
+                Sistema de ventas & facturación 
+            </a>
+            <!--administra los usuarios de nuestra aplicación web diciendonos si hay un usuario o no conectado-->
+            <!--este menu se visualiza siempre que un usuario inicie sesión en el sistema da igual el que sea -->
+            @if (SignInManager.IsSignedIn(User))
+            {
+            <div id="menuNavBar1">
+                <!--son tag que nos indica que area y controlador va a realizar la tarea definida en asp-action -->
+                <ul class="right hide-on-med-and-down">
+                    <a asp-area="Usuarios" asp-controller="Usuarios" asp-action="SessionClose">
+                        Salir
+                    </a>
+                </ul>
+                
+                <a href="#" data-target="slide-out" class="btn-floating btn-large waves-effect waves-light
+                       cyan darken-2 sidenav-trigger"></a>
+            </div>
+            }
+        </div>
+    </nav>
+    
+    <ul id="slide-out" class="sidenav">
+        <li>
+            <div class="user-view cyan darken-2">
+                <img id="foto1" class="circle responsive-img valign-wrapper profile-image"
+                     src="~/images/fotos/default.png" alt="sistema facturación" />
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <p class="white-text" id="name1">@UserManager.GetUserName(User)</p>
+                    <p class="white-text" id="role1">
+                        @User.Claims.FirstOrDefault(u => u.Type.Equals("" +
+                        "http://schemas.microsoft.com/ws/2008/06/identity/claims/role")).Value
+                    </p>
+                }
+
+
+            </div>
+        </li>
+        <li>
+            <a asp-area="Principal" asp-controller="Principal" asp-action="Index" onclick="">
+                Inicio
+            </a>
+        </li>
+        <li>
+            <a asp-area="Usuarios" asp-controller="Usuarios" asp-action="Index" onclick="">
+                Usuarios
+            </a>
+        </li>
+        <li>
+            <a asp-area="Usuarios" asp-controller="Usuarios" asp-action="SessionClose">
+                Salir
+            </a>
+        </li>
+    </ul>
+    
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <div id="menuNavBar2">
+            <div id="main">
+                <div class="wrapper">
+                    <aside id="left-sidebar-nav">
+                        <ul id="slide-out" class="side-nav fixed leftside-navigation">
+                            <li class="user-details cyan darken-2">
+                                <div class="row">
+                                    <div class="col col s5 m4 l6">
+                                        <img src="~/images/fotos/default.png" alt="" id="foto2"
+                                                class="circle responsive-img valign profile-image" />
+                                    </div>
+                                    <div class="col col s8 m8 l8">
+                                       
+                                        <p class="white-text" id="mame2">@UserManager.GetUserName(User)</p>
+                                        <!-- mejor hacerlo  con los claims este tema de ver la información del usuario -->
+                                        <p class="white-text" id="role2">
+                                            @User.Claims.FirstOrDefault(u => u.Type.Equals("" +
+                                            "http://schemas.microsoft.com/ws/2008/06/identity/claims/role")).Value
+                                        </p>
+                                        
+
+                                    </div>
+
+                                </div>
+                            </li>
+                            <div class="collection">
+                                <a asp-area="Principal" asp-controller="Principal" asp-action="Index" onclick="" id="enlace1"
+                                    class="collection-item">Inicio</a>
+                                <a asp-area="Usuarios" asp-controller="Usuarios" asp-action="Index" onclick="" id="enlace2"
+                                    class="collection-item">Usuarios</a>
+                            </div>
+                        </ul>
+                    </aside>
+
+                </div>
+            </div>
+        </div>
+    }
+
+    <partial name="_CookieConsentPartial" />
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; 2018 - Sistem_Ventas</p>
+        </footer>
+    </div>
+    
+        
+    
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <!--
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+     -->
+        
+        <script src="~/js/Uploadpicture.js" asp-append-version="true"></script>
+        <script src="~/js/Usuarios.js" asp-append-version="true"></script>
+        <script src="~/js/Principal.js" asp-append-version="true"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                asp-append-version="true"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="~/materialize/js/materialize.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        
+        <!--
+    <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+            asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+            asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+            crossorigin="anonymous"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+    </script>
+        -->
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
